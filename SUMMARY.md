@@ -64,7 +64,6 @@
 
 ## Методології Agile
 
-* [Scrum](metodologiyi-agile/scrum.md)
 * [Kanban](metodologiyi-agile/kanban.md)
 * [Lean](metodologiyi-agile/lean.md)
 * [XP (Extreme Programming)](metodologiyi-agile/xp-extreme-programming.md)
@@ -75,12 +74,6 @@
 * [Product Backlog](praktichni-aspekti/product-backlog.md)
 * [Sprint](praktichni-aspekti/sprint.md)
 * [Ретроспектива](praktichni-aspekti/retrospektiva.md)
-
-## Інструменти Agile
-
-* [Jira](instrumenti-agile/jira.md)
-* [Trello](instrumenti-agile/trello.md)
-* [Confluence](instrumenti-agile/confluence.md)
 
 ## Корисні посилання
 
