@@ -24,6 +24,18 @@
 * [Lead Time vs Cycle Time](lead-time-vs-cycle-time.md)
 * [Cumulative Flow Diagram](cumulative-flow-diagram.md)
 
+## Agile  Методології, Фреймворки, & Підходи
+
+* [Scrum](agile-metodologiyi-freimvorki-and-pidkhodi/scrum.md)
+
+***
+
+* [Kanban](kanban.md)
+* [Scrumban](scrumban.md)
+* [Scrum at Scale](scrum-at-scale.md)
+* [Scaled Agile Framework](scaled-agile-framework.md)
+* [Large-Scale Scrum](large-scale-scrum.md)
+
 ## Документація в Agile
 
 * [Мінімально достатня документація](dokumentaciya-v-agile/minimalno-dostatnya-dokumentaciya.md)
@@ -55,11 +67,11 @@
 
 ## Scrum
 
-* [Scrum Roles: Product Owner, Scrum Master, Development Team](scrum/scrum-roles-product-owner-scrum-master-development-team.md)
+* [Scrum ролі: Product Owner, Scrum Master, Development Team](scrum/scrum-roli-product-owner-scrum-master-development-team.md)
 
 ***
 
-* [Scrum Events: Sprint, Planning, Daily, Review, Retrospective](scrum-events-sprint-planning-daily-review-retrospective.md)
+* [Scrum події: спринт, планування спринту, щоденний Scrum, огляд спринту, ретроспектива спринту](scrum-podiyi-sprint-planuvannya-sprintu-shodennii-scrum-oglyad-sprintu-retrospektiva-sprintu.md)
 * [Scrum Artifacts: Product Backlog, Sprint Backlog, Increment](scrum-artifacts-product-backlog-sprint-backlog-increment.md)
 
 ## Методології Agile

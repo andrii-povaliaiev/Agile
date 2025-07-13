@@ -16,7 +16,7 @@ Burndown Chart показує як фактичну робочу лінію, т�
 
 ### Переваги використання діаграм вигорання
 
-<figure><img src=".gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (4) (2).png" alt=""><figcaption></figcaption></figure>
 
 Діаграми вигорання корисні з кількох ключових причин. Ці діаграми:
 
