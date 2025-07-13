@@ -2,8 +2,9 @@
 
 ## Вступ
 
-* [Що таке Agile?](README.md)
-* [Принципи Agile](vstup/principi-agile.md)
+* [Вступ](README.md)
+  * [Що таке Agile?](vstup/vstup/sho-take-agile.md)
+  * [Принципи Agile](vstup/vstup/principi-agile.md)
 
 ## Ролі в Agile-команді
 
