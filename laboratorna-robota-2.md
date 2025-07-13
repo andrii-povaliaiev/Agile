@@ -1,5 +1,5 @@
 ---
-description: 'Формування backlog: від Epic до User Story'
+description: 'Тема: Формування backlog: від Epic до User Story'
 ---
 
 # Лабораторна робота №2

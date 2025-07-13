@@ -90,7 +90,8 @@
 
 ## Лабораторні роботи
 
-* [Лабораторна робота №1](laboratorni-roboti/laboratorna-robota-1.md)
+* [Лабораторна робота №1](laboratorni-roboti/laboratorna-robota-1/README.md)
+  * [Приклад Product Vision Document](laboratorni-roboti/laboratorna-robota-1/priklad-product-vision-document.md)
 
 ***
 
