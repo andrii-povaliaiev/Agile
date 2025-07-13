@@ -35,6 +35,10 @@
 * [Scrum at Scale](scrum-at-scale.md)
 * [Scaled Agile Framework](scaled-agile-framework.md)
 * [Large-Scale Scrum](large-scale-scrum.md)
+* [Disciplined Agile](disciplined-agile.md)
+* [Crystal Agile Framework](crystal-agile-framework.md)
+* [XP (Extreme Programming)](xp-extreme-programming.md)
+* [Lean](lean.md)
 
 ## Документація в Agile
 
@@ -67,18 +71,12 @@
 
 ## Scrum
 
-* [Scrum ролі: Product Owner, Scrum Master, Development Team](scrum/scrum-roli-product-owner-scrum-master-development-team.md)
+* [Scrum ролі: Product Owner, Scrum Master, Development Team](scrum/scrum-roles-product-owner-scrum-master-development-team.md)
 
 ***
 
-* [Scrum події: спринт, планування спринту, щоденний Scrum, огляд спринту, ретроспектива спринту](scrum-podiyi-sprint-planuvannya-sprintu-shodennii-scrum-oglyad-sprintu-retrospektiva-sprintu.md)
+* [Scrum події: спринт, планування спринту, щоденний Scrum, огляд спринту, ретроспектива спринту](scrum-events-sprint-planning-daily-review-retrospective.md)
 * [Scrum Artifacts: Product Backlog, Sprint Backlog, Increment](scrum-artifacts-product-backlog-sprint-backlog-increment.md)
-
-## Методології Agile
-
-* [Kanban](metodologiyi-agile/kanban.md)
-* [Lean](metodologiyi-agile/lean.md)
-* [XP (Extreme Programming)](metodologiyi-agile/xp-extreme-programming.md)
 
 ## Практичні аспекти
 

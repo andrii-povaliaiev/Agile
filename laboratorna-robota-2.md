@@ -20,7 +20,7 @@ description: 'Формування backlog: від Epic до User Story'
    Для кожного Feature необхідно розробити щонайменше 2–5 User Stories (загальна кількість — не менше 10–15 Stories на всі Features). Формулювання кожної User Story має відповідати шаблону:\
    &#xNAN;_«Як \[роль], я хочу \[дія], щоб \[очікувана вигода / результат]»_.
 
-<figure><img src=".gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (13).png" alt=""><figcaption></figcaption></figure>
 
 1. **Визначити Acceptance Criteria для кожної User Story**\
    Для кожної User Story сформулюйте мінімум 3 критерії прийняття — чіткі умови, за яких роботу за цією історією можна вважати завершеною та такою, що відповідає вимогам.

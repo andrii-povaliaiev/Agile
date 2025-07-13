@@ -1,4 +1,4 @@
-# Scrum Events: Sprint, Planning, Daily, Review, Retrospective
+# Scrum події: спринт, планування спринту, щоденний Scrum, огляд спринту, ретроспектива спринту
 
 ### Події у Scrum (Scrum Events)
 

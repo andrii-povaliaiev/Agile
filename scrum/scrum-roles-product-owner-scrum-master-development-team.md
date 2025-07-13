@@ -1,4 +1,4 @@
-# Scrum Roles: Product Owner, Scrum Master, Development Team
+# Scrum ролі: Product Owner, Scrum Master, Development Team
 
 ### Ролі у Scrum-команді
 
