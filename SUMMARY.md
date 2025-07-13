@@ -87,3 +87,4 @@
 
 * [Лабораторна робота №2](laboratorna-robota-2.md)
 * [Лабораторна робота №3](laboratorna-robota-3.md)
+* [Лабораторна робота №4](laboratorna-robota-4.md)
