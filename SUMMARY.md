@@ -78,3 +78,12 @@
 ## Корисні посилання
 
 * [Page 1](korisni-posilannya/page-1.md)
+
+## Лабораторні роботи
+
+* [Лабораторна робота №1](laboratorni-roboti/laboratorna-robota-1.md)
+
+***
+
+* [Лабораторна робота №2](laboratorna-robota-2.md)
+* [Лабораторна робота №3](laboratorna-robota-3.md)
