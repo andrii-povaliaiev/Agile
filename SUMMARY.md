@@ -27,19 +27,17 @@
 
 ## Agile  Методології, Фреймворки, & Підходи
 
-* [Scrum](agile-metodologiyi-freimvorki-and-pidkhodi/scrum.md)
-
-***
-
-* [Kanban](kanban.md)
-* [Scrumban](scrumban.md)
-* [Scrum at Scale](scrum-at-scale.md)
-* [Scaled Agile Framework](scaled-agile-framework.md)
-* [Large-Scale Scrum](large-scale-scrum.md)
-* [Disciplined Agile](disciplined-agile.md)
-* [Crystal Agile Framework](crystal-agile-framework.md)
-* [XP (Extreme Programming)](xp-extreme-programming.md)
-* [Lean](lean.md)
+* [Agile  Методології, Фреймворки, & Підходи](agile-metodologiyi-freimvorki-and-pidkhodi/agile-metodologiyi-freimvorki-and-pidkhodi/README.md)
+  * [Scrum](agile-metodologiyi-freimvorki-and-pidkhodi/agile-metodologiyi-freimvorki-and-pidkhodi/scrum.md)
+  * [Kanban](agile-metodologiyi-freimvorki-and-pidkhodi/agile-metodologiyi-freimvorki-and-pidkhodi/kanban.md)
+  * [Scrumban](agile-metodologiyi-freimvorki-and-pidkhodi/agile-metodologiyi-freimvorki-and-pidkhodi/scrumban.md)
+  * [Scrum at Scale](agile-metodologiyi-freimvorki-and-pidkhodi/agile-metodologiyi-freimvorki-and-pidkhodi/scrum-at-scale.md)
+  * [Scaled Agile Framework](agile-metodologiyi-freimvorki-and-pidkhodi/agile-metodologiyi-freimvorki-and-pidkhodi/scaled-agile-framework.md)
+  * [Large-Scale Scrum](agile-metodologiyi-freimvorki-and-pidkhodi/agile-metodologiyi-freimvorki-and-pidkhodi/large-scale-scrum.md)
+  * [Disciplined Agile](agile-metodologiyi-freimvorki-and-pidkhodi/agile-metodologiyi-freimvorki-and-pidkhodi/disciplined-agile.md)
+  * [Crystal Agile Framework](agile-metodologiyi-freimvorki-and-pidkhodi/agile-metodologiyi-freimvorki-and-pidkhodi/crystal-agile-framework.md)
+  * [XP (Extreme Programming)](agile-metodologiyi-freimvorki-and-pidkhodi/agile-metodologiyi-freimvorki-and-pidkhodi/xp-extreme-programming.md)
+  * [Lean](agile-metodologiyi-freimvorki-and-pidkhodi/agile-metodologiyi-freimvorki-and-pidkhodi/lean.md)
 
 ## Документація в Agile
 
